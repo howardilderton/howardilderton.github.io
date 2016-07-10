@@ -17,7 +17,7 @@ Before any meaningful exploratory data analysis (EDA) can be performed on a data
 
 As important as data cleansing is it is often viewed as the least enjoyable part of a data-scientist's job. It also happens to be the most time-consuming aspect of a data-scientists job. Many articles have cited as much as 60-80% of a data-scientists time is spent on cleaning data before any actual analysis can take place. See the below info-graphic from Forbes.
 
-http://blogs-images.forbes.com/gilpress/files/2016/03/Time-1200x511.jpg
+![Figure 1](http://blogs-images.forbes.com/gilpress/files/2016/03/Time-1200x511.jpg "Figure 1")
 
 Whilst the actual process and order of tasks involved in dat cleansing may vary significantly, they will generally include some or all of the following:
 
