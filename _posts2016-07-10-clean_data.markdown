@@ -1,3 +1,18 @@
+---
+title: "Clean Data"
+layout: post
+date: 2016-07-10 22:44
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+blog: true
+star: true
+author: howardilderton
+description: Philosophy of Clean Data
+---
+
 # The Philosophy of 'Clean Data' 
 
 Before any meaningful exploratory data analysis (EDA) can be performed on a dataset the data needs to be reviewed and 'cleaned'. This process involves detecting and correcting (or removing) corrupt or inaccurate records from the data. Without a clean data-set results from subsequent data anlysis will be of little value as they would likely be skewed by missing or incorrect information.
