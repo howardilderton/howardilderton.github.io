@@ -5,9 +5,7 @@ date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- data
 blog: true
 author: howardilderton
 description: Why is clean data important
